@@ -1,0 +1,9 @@
+==	Verifica se uma variável numérica é igual a outra.
+===	Verifica se uma variável numérica é igual e do mesmo tipo que outra.
+> 	Verifica se uma variável numérica é maior que outra.
+< 	Verifica se uma variável numérica é menor que outra.
+>=	Verifica se uma variável numérica é maior ou igual a outra.
+<=	Verifica se uma variável numérica é menor ou igual a outra.
+!=	Verifica se uma variável numérica é diferente de outra.
+.	Operador de concatenação de strings.
+=	Operador de atribuição

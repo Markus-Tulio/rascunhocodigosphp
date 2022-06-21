@@ -1,0 +1,4 @@
+AND	&&	Conector “e”: valida se duas condições são verdadeiras.
+OR	||	Conector “ou”: valida se pelo menos uma das condições é verdadeira.
+!	NOT	Equivalente a “não”. Válida se é falso.
+XOR	 	Verifica se apenas um dos elementos seja verdadeiro.
